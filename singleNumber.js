@@ -1,8 +1,7 @@
-let num = [];
-function singleNumber(num) {
-    for (const number of num) {
-        if (number) {
-            
-        }
-    }
-}
+let singleNumber = (nums) => {
+  const hashTable = {}; //creat a hash table to keep track of how many times a number appears in our array
+
+  for (const num of nums) {
+      
+  }
+};
